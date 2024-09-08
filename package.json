@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Harshpparmar.github.ip/sitez",
+  "homepage": "https://harshpparmar.github.ip/sitez",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Harshpparmar.github.io/sitez'",
+    "build-gh": "parcel build --public-url 'https://harshpparmar.github.io/sitez'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
